@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddl-hust
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning solidity
-- 📫 How to reach me: ddl1996.eth
+- 📫 How to reach me: dengdiliang@gmail.com
 
 <!---
 ddl-hust/ddl-hust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
