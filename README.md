@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddl-hust
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning TON related stack
 - 📫 How to reach me: dengdiliang@gmail.com
 
 <!---
