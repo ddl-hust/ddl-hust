@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddl-hust
-- 🌱 I’m currently interest about evm\solidity\huff related stack
+- 🌱 blockchain engineer、zero knowledge enthusiast
 - 📫 How to reach me: dengdiliang@gmail.com
 
 <!---
