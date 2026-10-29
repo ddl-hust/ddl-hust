@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddl-hust
 - 🌱 blockchain engineer、zero knowledge enthusiast
-- 📫 How to reach me: dengdiliang@gmail.com
+- 📫 How to reach me: X @dockerdeng
 - Blog: https://hackmd.io/@ddl
 
 <!---
